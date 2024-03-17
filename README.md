@@ -1,2 +1,2 @@
 # animatedTwo
-(./show.png)
+!(./show.png)
